@@ -33,7 +33,7 @@ body{
   gap: 1.2em;
 
 }.search-container input, .search-container button {
-  font-size: 0.9em;
+  font-size: 0.81em;
   outline: none;
   border-radius: 0.3em;
 }
